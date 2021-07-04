@@ -3,9 +3,7 @@
 
 # Replace Your APIKEY
 
-**http_service_impl**<br />
-<br />
-....<br />
-const API_KEY = "<YOUR_API_KEY>";<br />
-...
-<br />
+Insert your newsapi key
+```bash
+const API_KEY = "<YOUR_API_KEY>";
+```
