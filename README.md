@@ -3,7 +3,7 @@
 
 # Replace Your APIKEY
 
-Insert your newsapi key
+Insert your newsapi key in [http_service_impl.dart]
 ```bash
 const API_KEY = "<YOUR_API_KEY>";
 ```
